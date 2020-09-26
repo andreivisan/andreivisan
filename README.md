@@ -1,6 +1,6 @@
 ### Hi, I am Andrei 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />
+<img align="right" alt="GIF" src="https://github.com/andreivisan/andreivisan/blob/master/code.gif?raw=true" width="400" height="250" />
 
 ## I'm a Full Stack Developer and Tech Enthusiast!
 
