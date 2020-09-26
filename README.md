@@ -35,7 +35,6 @@
 
 <br />
 <br />
----
 
 
 [![Andrei's github stats](https://github-readme-stats.vercel.app/api?username=andreivisan)](https://github.com/anuraghazra/github-readme-stats)
