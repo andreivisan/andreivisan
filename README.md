@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="wwww.programminglife.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="programminglife.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="andreivisan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="programminglife.io | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -46,6 +46,6 @@
 [![Top Langs](https://github-readme-stats.andreivisan.vercel.app/api/top-langs/?username=andreivisan&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[website]: https://programminglife.io
+[website]: http://programminglife.io
 [instagram]: https://instagram.com/programminglife.io
 [linkedin]: https://linkedin.com/in/andreivisan
