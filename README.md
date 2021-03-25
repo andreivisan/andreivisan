@@ -6,8 +6,8 @@
 
 - 🔭 I’m currently working on many projects!
 - 🌱 I’m currently learning algorithms and competitve programming
-- 🥅 2020 Goals: Participate in one programming competition
-- ⚡ Fun fact: I love heavy lifting and MMA
+- 🥅 2021 Goals: Get really good with Algorithms
+- ⚡ Fun fact: I love heavy lifting, MMA and Formula 1
 
 
 
