@@ -5,10 +5,9 @@
 ## I'm a Full Stack Developer and Tech Enthusiast!
 
 - 🔭 I’m currently working on many projects!
-- 🌱 I’m currently learning algorithms and competitve programming
-- 🥅 2021 Goals: Get really good with Algorithms
-- ⚡ Fun fact: I love heavy lifting, MMA and Formula 1
-
+- 🌱 I’m currently learning Machine Learning and Deep Learning
+- 🥅 2023 Goals: Getting experienced with building Machine Learning projects
+- ⚡ Fun fact: I love creating content to help people learn better and faster
 
 
 ### Connect with me:
