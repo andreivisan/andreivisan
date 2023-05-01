@@ -42,8 +42,6 @@
 
 [![Andrei's github stats](https://github-readme-stats.andreivisan.vercel.app/api?username=andreivisan&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.andreivisan.vercel.app/api/top-langs/?username=andreivisan&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [website]: http://programminglife.io
 [instagram]: https://instagram.com/programminglife.io
