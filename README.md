@@ -7,13 +7,16 @@ I'm passionate about creating professional, beautiful and robust code.
 ## My Work
 
 - [Reboot SAAS](http://rebootsaas.org) - Coming Soon!
+- 
 - [YouTube Channel](https://www.youtube.com/c/programminglifeio)
 
 
 ## Courses I created:
 
 [Creating a Spring Boot REST API with iPad Pro and Raspberry Pi 4 ](https://link.springer.com/video/10.1007/978-1-4842-8060-7)
+
 [Securing a Spring Boot REST API Using Spring Security with iPad Pro and Raspberry Pi 4](https://link.springer.com/video/10.1007/978-1-4842-8059-1)
+
 [Front-End Development with iPad Pro and Raspberry Pi 4 ](https://link.springer.com/video/10.1007/978-1-4842-8061-4)
 
 <br />
@@ -22,6 +25,7 @@ I'm passionate about creating professional, beautiful and robust code.
 ## Blog Posts:
 
 [From Coding to Craft: The Real Divide Between Coders and Professional Enterprise Software Engineers](https://medium.com/@real-programminglife/from-coding-to-craft-the-real-divide-between-coders-and-professional-enterprise-software-engineers-a493a06115b4)
+
 [The World Doesn’t Change in 7 Months, But You Can](https://medium.com/@real-programminglife/the-world-doesnt-change-in-7-months-but-you-can-20505d46d6fc)
 
 
