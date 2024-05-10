@@ -1,4 +1,4 @@
-### Hi, I am Andrei 
+# Hello, I'm [Andrei](https://programminglife.io/)
 
 <img align="right" alt="GIF" src="https://github.com/andreivisan/andreivisan/blob/master/code.gif?raw=true" width="400" height="250" />
 
