@@ -1,47 +1,31 @@
-# Hello, I'm [Andrei](https://programminglife.io/)
+# Hello, I'm [Andrei](https://github.com/andreivisan)
 
-<img align="right" alt="GIF" src="https://github.com/andreivisan/andreivisan/blob/master/code.gif?raw=true" width="400" height="250" />
-
-## I'm a Full Stack Developer and Tech Enthusiast!
-
-- 🔭 I’m currently working on many projects!
-- 🌱 I’m currently learning Machine Learning and Deep Learning
-- 🥅 2023 Goals: Getting experienced with building Machine Learning projects
-- ⚡ Fun fact: I love creating content to help people learn better and faster
+I'm a Full Stack Programmer, Content Creator and AI Enthusiast.
+I'm passionate about creating professional, beautiful and robust code.
 
 
-### Connect with me:
+## My Work
 
-[<img align="left" alt="programminglife.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="andreivisan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="programminglife.io | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- [Reboot SAAS](http://rebootsaas.org) - Coming Soon!
+- [YouTube Channel](https://www.youtube.com/c/programminglifeio)
 
-<br />
 
-### Languages and Tools:
+## Courses I created:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+[Creating a Spring Boot REST API with iPad Pro and Raspberry Pi 4 ](https://link.springer.com/video/10.1007/978-1-4842-8060-7)
+[Securing a Spring Boot REST API Using Spring Security with iPad Pro and Raspberry Pi 4](https://link.springer.com/video/10.1007/978-1-4842-8059-1)
+[Front-End Development with iPad Pro and Raspberry Pi 4 ](https://link.springer.com/video/10.1007/978-1-4842-8061-4)
 
 <br />
-<br />
 
 
-[![Andrei's github stats](https://github-readme-stats.andreivisan.vercel.app/api?username=andreivisan&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+## Blog Posts:
 
+[From Coding to Craft: The Real Divide Between Coders and Professional Enterprise Software Engineers](https://medium.com/@real-programminglife/from-coding-to-craft-the-real-divide-between-coders-and-professional-enterprise-software-engineers-a493a06115b4)
+[The World Doesn’t Change in 7 Months, But You Can](https://medium.com/@real-programminglife/the-world-doesnt-change-in-7-months-but-you-can-20505d46d6fc)
+
+
+## Get in Touch
 
 [website]: http://programminglife.io
 [instagram]: https://instagram.com/programminglife.io
