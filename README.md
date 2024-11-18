@@ -28,6 +28,10 @@ I'm passionate about creating professional, beautiful and robust code.
 
 ## Blog Posts:
 
+[40 Topics Every Java Backend Developer Should Understand P2 — Consistency Models](https://real-programminglife.medium.com/40-topics-every-java-backend-developer-should-understand-p2-consistency-models-4c7c740c1365)
+
+[40 Topics Every Java Backend Developer Should Understand](https://real-programminglife.medium.com/40-topics-every-java-backend-developer-should-understand-ffbbf70b802e)
+
 [From Coding to Craft: The Real Divide Between Coders and Professional Enterprise Software Engineers](https://medium.com/@real-programminglife/from-coding-to-craft-the-real-divide-between-coders-and-professional-enterprise-software-engineers-a493a06115b4)
 
 [The World Doesn’t Change in 7 Months, But You Can](https://medium.com/@real-programminglife/the-world-doesnt-change-in-7-months-but-you-can-20505d46d6fc)
