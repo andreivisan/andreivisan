@@ -46,6 +46,6 @@ I'm passionate about creating professional, beautiful and robust code.
 [<img align="left" alt="programminglife.io | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [website]: http://programminglife.io
-[X](https://x.com/andreivisan)
+[X]: https://x.com/andreivisan
 [instagram]: https://instagram.com/programminglife.io
 [linkedin]: https://linkedin.com/in/andreivisan
